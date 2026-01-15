@@ -1,0 +1,40 @@
+1. Selection Bias
+Rule: Focus on what is included or, more importantly, excluded from the story or the entire news cycle.
+ * Inclusion/Exclusion of Sources: A story predominantly features sources supporting one side (e.g., only BJP spokespersons) while ignoring or minimizing opposing voices (e.g., Congress/opposition leaders).
+ * Topic Filtering: One key political event, scandal, or achievement related to one party is given zero coverage or is buried deep, while similar news about another party is highly publicized.
+ * Data Cherry-picking: Using only the specific statistics or facts (e.g., economic growth rates, poll numbers) that favor a particular narrative and omitting inconvenient data.
+2. Framing Bias
+Rule: Focus on how the story is packaged, emphasizing certain aspects to influence interpretation.
+ * Choice of Metaphor/Analogy: Using loaded terms or imagery to describe a party or event (e.g., describing a protest as 'chaos/anarchy' (\text{अराजकता}) vs. 'democratic expression' (\text{लोकतांत्रिक अभिव्यक्ति})).
+ * Order of Information: Placing the preferred narrative's conclusion or preferred facts (e.g., "The government succeeded...") at the very start of the headline/story.
+ * Focus of Responsibility: Attributing success/positive outcomes to one party's 'vision' (\text{दृष्टि}) or 'leadership' (\text{नेतृत्व}), but blaming negative outcomes on external factors or the 'past' (\text{अतीत}).
+3. Linguistic Bias
+Rule: Focus on the specific words, adjectives, and nouns used to describe people, groups, or actions. (Applicable to Hindi vocabulary).
+ * Loaded Adjectives: Describing an action using emotionally charged words (e.g., a leader's firm decision is called 'bold' (\text{साहसिक}) vs. 'stubborn' (\text{अड़ियल})).
+ * Labeling: Using different labels for similar groups (e.g., calling one group's supporters 'patriots' (\text{देशभक्त}) and an opposing group's supporters 'agitators' (\text{उपद्रवी})).
+ * Euphemisms/Dysphemisms: Softening negative actions (e.g., calling a major financial collapse a 'minor adjustment' (\text{मामूली फेरबदल})) or hardening neutral ones.
+4. Ideology Bias
+Rule: Focus on how the news story aligns with or subtly promotes a specific political, economic, or social doctrine.
+ * Normalization of Views: Presenting a partisan or extreme ideological position (e.g., hyper-nationalism (\text{अति राष्ट्रवाद}) or far-left policy (\text{वामपंथी नीति})) as the only acceptable or mainstream viewpoint.
+ * Policy Critique: Consistent, unquestioning support for or dismissal of policies based solely on the party's ideological stance (e.g., always praising privatization (\text{निजीकरण}) or always condemning it).
+ * Historical Interpretation: Re-interpreting historical events or figures in a way that aligns with the favored ideological narrative (\text{वैचारिक कथा}) of a specific political base.
+5. Stance Bias
+Rule: Focus on the reporter, anchor, or publication's express or implied approval or disapproval of a political actor or event.
+ * Approval/Disapproval in Tone: The overall tone (\text{स्वर}) of the narration is visibly fawning/respectful (\text{प्रशंसात्मक/आदरपूर्ण}) when discussing one side and skeptical/derisive (\text{संदेहपूर्ण/उपहासपूर्ण}) when discussing the other.
+ * Interviewer Behavior: An anchor interrupts one interviewee frequently with leading questions but allows the opposing interviewee to speak uninterrupted.
+ * Visual/Audio Cues (in TV News): Using flattering graphics/lighting for one leader and unflattering or aggressive visuals for an opponent.
+6. Omission Bias
+Rule: Focus on the intentional leaving out of crucial context or necessary facts that would alter the story's meaning.
+ * Missing Context: Reporting a politician's controversial statement without including the preceding question or the full sequence of events that provoked the comment.
+ * Withholding Key Facts: Reporting on a crime rate increase in a specific state but omitting the fact that the reporting methodology for crimes changed, skewing the numbers.
+ * Incomplete Follow-up: Failing to follow up on allegations or promises made by one side that turned out to be false or unfulfilled.
+7. Fact Bias
+Rule: Focus on the use of verifiable information, particularly where a genuine fact is mixed with opinion or presented as fact.
+ * Opinion as Fact: Presenting a claim that requires proof (e.g., "The economy will grow by 10%") as a certain, established fact (\text{स्थापित तथ्य}) without attribution or supporting evidence.
+ * Misrepresentation: Distorting or twisting an actual quote, number, or event to support the desired narrative.
+ * Over-simplification: Reducing complex policy issues to overly simplistic, easily digestible slogans that ignore critical details or caveats.
+8. Emotional Bias
+Rule: Focus on language and presentation designed to elicit a strong emotional response (anger, fear, solidarity) rather than rational thought.
+ * Appeal to Fear/Anger: Using language/imagery to suggest an opposing group or policy is an existential threat (\text{अस्तित्व का ख़तरा}) to the nation, religion, or society.
+ * Appeal to Pity/Sympathy: Over-dramatizing the plight of one group (often victims of the 'other side') to elicit uncritical sympathy (\text{सहानुभूति}) and support.
+ * Use of Anecdotes: Relying solely on a highly emotive, singular personal story (\text{भावनात्मक व्यक्तिगत कहानी}) to represent a complex trend or policy outcome, overriding statistical evidence.
